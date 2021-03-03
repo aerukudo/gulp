@@ -21,7 +21,7 @@
         "gulp-sourcemaps": "^2.6.5",
         "imagemin-pngquant": "^8.0.0",
         "postcss-flexbugs-fixes": "^4.1.0",
-        "pug": "^2.0.4"
+        "pug": "^3.0.1"
     },
     "scripts": {
         "dev": "gulp dev"
